@@ -1,4 +1,4 @@
-# Adida-Sales-Data-Dashboard
+# Adidas-Sales-Data-Dashboard
 ## Overview
 
 The US Sales Data Dashboard provides a comprehensive visualization of Adidas' sales performance across different metrics, regions, and product categories. It enables stakeholders to gain valuable insights into overall business performance, retailer contributions, sales trends, and the effectiveness of different sales channels.
